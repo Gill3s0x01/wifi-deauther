@@ -8,14 +8,14 @@
    <a href="https://www.linkedin.com/in/lorison-gilles/">
       <img alt="Lorison Gilles" src="https://img.shields.io/badge/-LorisonGilles-8257E5?style=flat&logo=Linkedin&logoColor=white" />
    </a>
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Gilles30/wifi-deauther-rr?color=774DD6">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Gilles30/wifi-deauther?color=774DD6">
 
-  <a href="https://github.com/Gilles30/wifi-deauther-rr/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Gilles30/wifi-deauther-rr?color=774DD6">
+  <a href="https://github.com/Gilles30/wifi-deauther/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Gilles30/wifi-deauther?color=774DD6">
   </a> 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-8257E5">
-  <a href="https://github.com/Gilles30/wifi-deauther-rr/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/Gilles30/wifi-deauther-rr?color=8257E5&logo=github">
+  <a href="https://github.com/Gilles30/wifi-deauther/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/Gilles30/wifi-deauther?color=8257E5&logo=github">
   </a>
 </p>
 
@@ -30,7 +30,7 @@
 <div align="center">
   <sub>RR WiFi-Deauther. Construído com ❤︎ por
     <a href="https://github.com/Gilles30">Lorison Gilles</a> e
-    <a href="https://github.com/Gilles30/wifi-deauther-rr/">
+    <a href="https://github.com/Gilles30/wifi-deauther/">
       contribuidores.
     </a>
   </sub>
@@ -92,7 +92,7 @@
 Você pode acessar o site deployado clicando no icone abaixo:
 👉 demo:
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6b13a4b1-96e1-4ff3-86e3-4c9b981c77cf/deploy-status)](https://wifi-deauther-rr.vercel.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6b13a4b1-96e1-4ff3-86e3-4c9b981c77cf/deploy-status)](https://wifi-deauther.vercel.app/)
 
 # :computer: Tecnologias
 
@@ -118,7 +118,7 @@ Este projeto foi feito utilizando as seguintes tecnologias:
 
 ```bash
 # Clonar o repositório
-$ git clone https://github.com/Gilles30/wifi-deauther-rr.git
+$ git clone https://github.com/Gilles30/wifi-deauther.git
 ```
 
 ### 📦 Rodar EmailJS
@@ -160,7 +160,7 @@ Link repo Github: https://github.com/Gilles30/api-sure -->
 
 ```bash
 # Go to web folder
-$ cd wifi-deauther-rr
+$ cd wifi-deauther
 
 # Install Dependencies
 $ yarn
@@ -174,7 +174,7 @@ Go to http://localhost:3002
 
 # :bug: Problemas
 
-Sinta-se à vontade para **arquivar uma nova edição** com o respectivo título e descrição no repositório [Proffy](https://github.com/Gilles30/wifi-deauther-rr.git/issues). Se você já encontrou uma solução para o seu problema, **eu adoraria analisar sua solicitação de pull**!
+Sinta-se à vontade para **arquivar uma nova edição** com o respectivo título e descrição no repositório [Proffy](https://github.com/Gilles30/wifi-deauther.git/issues). Se você já encontrou uma solução para o seu problema, **eu adoraria analisar sua solicitação de pull**!
 
 # :tada: Contribuindo
 
@@ -184,9 +184,9 @@ Confira a página [contribuindo](./CONTRIBUTING.md) para ver os melhores lugares
 
 Siga os passos abaixo para contribuir:
 
-1.  _fork_ o projeto (<https://github.com/Gilles30/wifi-deauther-rr.git>)
+1.  _fork_ o projeto (<https://github.com/Gilles30/wifi-deauther.git>)
 
-2.  Clone seu _fork_ para sua máquina (`git clone https://github.com/Gilles30/wifi-deauther-rr.git`)
+2.  Clone seu _fork_ para sua máquina (`git clone https://github.com/Gilles30/wifi-deauther.git`)
 
 3.  Crie um _branch_ para realizar sua modificação (`git checkout -b feature/name_new_feature`)
 
