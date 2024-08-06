@@ -184,7 +184,7 @@ Confira a página [contribuindo](./CONTRIBUTING.md) para ver os melhores lugares
 
 Siga os passos abaixo para contribuir:
 
-1.  _fork_ o projeto (<https://github.com/Gilles30/wifi-deauther.git>)
+1.  _fork_ o projeto (<https://github.com/Gill3s0x01/wifi-deauther.git>)
 
 2.  Clone seu _fork_ para sua máquina (`git clone https://github.com/Gilles30/wifi-deauther.git`)
 
@@ -202,7 +202,7 @@ Siga os passos abaixo para contribuir:
 
 Lançado em 2022 :closed_book: Licença
 
-Feito com amor por [Lorison Gilles](https://github.com/Gilles30) 🚀.
+Feito com amor por [Gill3s0x01](https://github.com/Gill3s0x01) 🚀.
 Este projeto está sob a [MIT license](./LICENSE).
 
 Dê um ⭐️ se esse projeto te ajudou!
