@@ -5,16 +5,13 @@
 </p>
 
 <p align="center">	
-   <a href="https://www.linkedin.com/in/lorison-gilles/">
-      <img alt="Lorison Gilles" src="https://img.shields.io/badge/-LorisonGilles-8257E5?style=flat&logo=Linkedin&logoColor=white" />
-   </a>
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/Gilles30/wifi-deauther?color=774DD6">
 
-  <a href="https://github.com/Gilles30/wifi-deauther/commits/master">
+  <a href="https://github.com/Gill3s0x01/wifi-deauther/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Gilles30/wifi-deauther?color=774DD6">
   </a> 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-8257E5">
-  <a href="https://github.com/Gilles30/wifi-deauther/stargazers">
+  <a href="https://github.com/Gill3s0x01/wifi-deauther/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/Gilles30/wifi-deauther?color=8257E5&logo=github">
   </a>
 </p>
@@ -29,8 +26,8 @@
 
 <div align="center">
   <sub>RR WiFi-Deauther. Construído com ❤︎ por
-    <a href="https://github.com/Gilles30">Lorison Gilles</a> e
-    <a href="https://github.com/Gilles30/wifi-deauther/">
+    <a href="https://github.com/Gill3s0x01">Lorison Gilles</a> e
+    <a href="https://github.com/Gill3s0x01/wifi-deauther/">
       contribuidores.
     </a>
   </sub>
@@ -154,7 +151,7 @@ $ Data:{
 ``` -->
 <!--
 Access API at http://api-sure.herokuapp.com/data
-Link repo Github: https://github.com/Gilles30/api-sure -->
+Link repo Github: https://github.com/Gill3s0x01/api-sure -->
 
 ### 💻 Rodar Projeto Web
 
@@ -174,7 +171,7 @@ Go to http://localhost:3002
 
 # :bug: Problemas
 
-Sinta-se à vontade para **arquivar uma nova edição** com o respectivo título e descrição no repositório [Proffy](https://github.com/Gilles30/wifi-deauther.git/issues). Se você já encontrou uma solução para o seu problema, **eu adoraria analisar sua solicitação de pull**!
+Sinta-se à vontade para **arquivar uma nova edição** com o respectivo título e descrição no repositório [Proffy](https://github.com/Gill3s0x01/wifi-deauther.git/issues). Se você já encontrou uma solução para o seu problema, **eu adoraria analisar sua solicitação de pull**!
 
 # :tada: Contribuindo
 
